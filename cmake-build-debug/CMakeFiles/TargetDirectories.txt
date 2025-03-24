@@ -1,0 +1,3 @@
+/Users/feiafeifei/CLionProjects/quotes-chen-immacolato-a/cmake-build-debug/CMakeFiles/quotes_chen_immacolato_a.dir
+/Users/feiafeifei/CLionProjects/quotes-chen-immacolato-a/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/feiafeifei/CLionProjects/quotes-chen-immacolato-a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
